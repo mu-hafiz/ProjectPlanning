@@ -1,0 +1,4 @@
+- LCD (that came with the electronics kit)
+- [OLED Display](https://www.amazon.co.uk/AZDelivery-Display-Pixels-Arduino-Raspberry/dp/B01L9GC470/ref=sr_1_1_sspa?crid=3VXDLY1PKLKK6&dib=eyJ2IjoiMSJ9.Jz87Jqhb0zkPjbPEtL_DQNvY6nklQnrp0va8d975UysVOO5kZpcK0HaPKZXDvgv9TT_mCZQfRBO3l8xGvCmyuIw4EGg2YDBJonD2eHcCnof-l39Gm6Lx7WVGAel4OO4nrUf-TRBu3kOxgy5zHF2CBr3hdWaVF24y96JEuaOuTG1u5kaXQEHbL3NgHABsV8AwTG0qvwp0Wwn-U7kbpH9sBGxTd26Pxn0J33hiXw15Wl8.XNv2J6pwAtVzapSsqnoQDiolKWEgO-Q7hO9nfakb_UM&dib_tag=se&keywords=azdelivery+oled&qid=1711924170&sprefix=oled+azdeli%2Caps%2C76&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+- [ESP32 D1 Mini](https://www.amazon.co.uk/gp/product/B08BTLYSTM/ref=ewc_pr_img_1?smid=A1X7QLRQH87QA3&psc=1)
+- Rotary Encoder/Potentiometer (already have I think)
