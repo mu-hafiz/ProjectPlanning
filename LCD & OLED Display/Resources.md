@@ -5,4 +5,3 @@
 ### ESPHome + OLED (goal):
 - [SSD1306 OLED Display — ESPHome](https://esphome.io/components/display/ssd1306.html) (what I want to use eventually)
 - [Graphical Display Menu — ESPHome](https://esphome.io/components/display_menu/graphical_display_menu) (extension of [[Resources#^7f9bd3|Display Menu]] for OLED)
-test
