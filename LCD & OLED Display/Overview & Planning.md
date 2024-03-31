@@ -1,6 +1,6 @@
 ## Idea
 
-The main idea is to take my existing bedroom controller and convert it so that it has an OLED display that can be used as a display menu. The menu system will be navigated using a potentiometer/rotary encoder, and will have buttons to confirm and go back from the menus.
+The main idea is to take my existing bedroom controller and convert it so that it has an OLED display that can be used as a display menu. The menu system will be navigated using a potentiometer/rotary encoder, and will have buttons to confirm and go back from the menus
 
 ---
 ## Menu System
