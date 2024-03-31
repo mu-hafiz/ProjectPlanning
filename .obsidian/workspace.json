@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LCD & OLED Display/Overview & Planning.md",
+                "file": "LCD & OLED Display/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LCD & OLED Display/Overview & Planning.md",
+                "file": "LCD & OLED Display/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LCD & OLED Display/Overview & Planning.md",
+                "file": "LCD & OLED Display/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LCD & OLED Display/Overview & Planning.md"
+                "file": "LCD & OLED Display/Resources.md"
               }
             }
           }
@@ -182,9 +182,14 @@
   },
   "active": "553d7116424aa6b6",
   "lastOpenFiles": [
-    "Test.md",
-    "LCD & OLED Display/Overview & Planning.md",
     "LCD & OLED Display/Parts List.md",
+    "LCD & OLED Display/Overview & Planning.md",
+    "LCD & OLED Display/Drawing 2024-04-01 00.02.49.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Test.md",
     "Excalidraw/Test.md",
     "LCD & OLED Display/Resources.md",
     "Excalidraw/Drawing 2024-03-31 23.59.38.excalidraw.md",
