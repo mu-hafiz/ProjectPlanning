@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "974e5531d41048c1",
+        "id": "d646fb46a9d997e2",
         "type": "tabs",
         "children": [
           {
-            "id": "9f3e3f8c65e11706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LCD & OLED Display/Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1229f0f5bf7b226c",
+            "id": "3ef9016bac687100",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "90a710615cda2c99",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "553d7116424aa6b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LCD & OLED Display/Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LCD & OLED Display/Resources.md",
+                "file": "LCD & OLED Display/Overview & Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LCD & OLED Display/Resources.md",
+                "file": "LCD & OLED Display/Overview & Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LCD & OLED Display/Resources.md"
+                "file": "LCD & OLED Display/Overview & Planning.md"
               }
             }
           }
@@ -180,10 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "553d7116424aa6b6",
+  "active": "3ef9016bac687100",
   "lastOpenFiles": [
     "LCD & OLED Display/Parts List.md",
+    "LCD & OLED Display/Multiple Pages.md",
+    "LCD & OLED Display/Resources.md",
     "LCD & OLED Display/Overview & Planning.md",
+    "Excalidraw/Drawing 2024-04-01 19.19.41.excalidraw.md",
     "LCD & OLED Display/Drawing 2024-04-01 00.02.49.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
@@ -191,7 +161,6 @@
     "Excalidraw/Scripts",
     "Test.md",
     "Excalidraw/Test.md",
-    "LCD & OLED Display/Resources.md",
     "Excalidraw/Drawing 2024-03-31 23.59.38.excalidraw.md",
     "Excalidraw/Drawing 2024-03-31 23.59.08.excalidraw.md",
     "Excalidraw",

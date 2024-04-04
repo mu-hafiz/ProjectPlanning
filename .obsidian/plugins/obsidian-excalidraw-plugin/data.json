@@ -32,7 +32,7 @@
   "defaultMode": "normal",
   "defaultPenMode": "never",
   "penModeCrosshairVisible": false,
-  "allowPinchZoom": false,
+  "allowPinchZoom": true,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": true,
