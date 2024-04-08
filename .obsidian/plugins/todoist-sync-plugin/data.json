@@ -2,7 +2,7 @@
   "fadeToggle": true,
   "autoRefreshToggle": true,
   "autoRefreshInterval": 600,
-  "renderDescription": true,
+  "renderDescription": false,
   "renderDate": true,
   "renderDateIcon": true,
   "renderProject": false,

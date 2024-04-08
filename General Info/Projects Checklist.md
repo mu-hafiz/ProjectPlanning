@@ -1,3 +1,5 @@
+[Personal Projects – Todoist](https://app.todoist.com/app/project/personal-projects-2316761298)
+
 ```todoist
 name: "Home Assistant/PC"
 filter: "#Personal Projects & /Home Assistant/PC"
