@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Info/All Projects.md",
+                "file": "General Info/Projects Checklist.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Info/All Projects.md",
+                "file": "General Info/Projects Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Info/All Projects.md",
+                "file": "General Info/Projects Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Info/All Projects.md"
+                "file": "General Info/Projects Checklist.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "3ef9016bac687100",
   "lastOpenFiles": [
     "LCD & OLED Display/Overview & Planning.md",
-    "General Info/All Projects.md",
+    "General Info/Projects Checklist.md",
     "LCD & OLED Display/Parts List.md",
     "LCD & OLED Display/Multiple Pages.md",
     "LCD & OLED Display/Resources.md",
