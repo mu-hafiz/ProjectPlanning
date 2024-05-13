@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d646fb46a9d997e2",
+        "id": "e99e1c749bb70289",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef9016bac687100",
+            "id": "f797a67d45cadc63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "LCD & OLED Display/Overview & Planning.md",
-                "mode": "source",
-                "source": false
+                "file": "Shelf LED Strip/Drawing Plan.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LCD & OLED Display/Overview & Planning.md",
+                "file": "Shelf LED Strip/Drawing Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LCD & OLED Display/Overview & Planning.md",
+                "file": "Shelf LED Strip/Drawing Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LCD & OLED Display/Overview & Planning.md"
+                "file": "Shelf LED Strip/Drawing Plan.md"
               }
             }
           }
@@ -147,14 +145,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ef9016bac687100",
+  "active": "f797a67d45cadc63",
   "lastOpenFiles": [
-    "LCD & OLED Display/Resources.md",
-    "LCD & OLED Display/Parts List.md",
     "LCD & OLED Display/Overview & Planning.md",
+    "Shelf LED Strip/Drawing Plan.md",
+    "LCD & OLED Display/Resources.md",
+    "Shelf LED Strip/Untitled.md",
+    "Shelf LED Strip/Untitled.canvas",
+    "Excalidraw/Drawing 2024-04-01 19.19.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-13 04.46.17.excalidraw.md",
+    "Shelf LED Strip",
+    "LCD & OLED Display/Parts List.md",
     "General Info/Projects Checklist.md",
     "LCD & OLED Display/Multiple Pages.md",
-    "Excalidraw/Drawing 2024-04-01 19.19.41.excalidraw.md",
     "LCD & OLED Display/Drawing 2024-04-01 00.02.49.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
     "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
