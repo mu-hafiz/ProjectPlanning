@@ -11,9 +11,11 @@
             "id": "f797a67d45cadc63",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Shelf LED Strip/Drawing Plan.md"
+                "file": "Shelf LED Strip/Overview & Planning.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shelf LED Strip/Drawing Plan.md",
+                "file": "Shelf LED Strip/Overview & Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shelf LED Strip/Drawing Plan.md",
+                "file": "Shelf LED Strip/Overview & Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shelf LED Strip/Drawing Plan.md"
+                "file": "Shelf LED Strip/Overview & Planning.md"
               }
             }
           }
@@ -147,10 +149,10 @@
   },
   "active": "f797a67d45cadc63",
   "lastOpenFiles": [
-    "LCD & OLED Display/Overview & Planning.md",
     "Shelf LED Strip/Drawing Plan.md",
+    "Shelf LED Strip/Overview & Planning.md",
+    "LCD & OLED Display/Overview & Planning.md",
     "LCD & OLED Display/Resources.md",
-    "Shelf LED Strip/Untitled.md",
     "Shelf LED Strip/Untitled.canvas",
     "Excalidraw/Drawing 2024-04-01 19.19.41.excalidraw.md",
     "Excalidraw/Drawing 2024-05-13 04.46.17.excalidraw.md",
